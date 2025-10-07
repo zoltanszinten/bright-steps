@@ -52,7 +52,6 @@ Folyamat:
 
 5 – Gyermek játszik (feladatvégzés tokennel)
 
-Cél:
 A gyermek az admin által előkészített környezetben végez feladatokat.
 
 Kapcsolódó táblák: games, statistics, user_settings
@@ -65,11 +64,11 @@ Folyamat:
 
 6 – Fejlődés követése
 
-Cél:
 Admin elemzi a gyermek teljesítményét és fejlődését.
 
 Kapcsolódó táblák: statistics, games, users
 Folyamat:
 -Admin megnyitja a gyermek statisztikai oldalát.
 -Rendszer összesíti az adatokat (pl. átlagpont, reakcióidő).
+
 -Eredmények grafikonon vagy táblázatban jelennek meg.
